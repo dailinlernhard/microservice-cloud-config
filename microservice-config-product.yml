@@ -39,7 +39,7 @@ eureka:
     prefer-ip-address: true #访问路径就会显示成IP地址
 ---
 server:
-  port: 8001
+  port: 8010
 
 spring:
   application:
